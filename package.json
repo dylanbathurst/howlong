@@ -1,15 +1,15 @@
 {
   "author": "Dylan Bathurst <dylanbathurst@gmail.com> (http://www.dylanbathurst.com)",
   "name": "howlong",
-  "description": "Simple module to compare milliseconds ago to today\\'s date",
-  "version": "0.0.1",
+  "description": "Simple module to compare milliseconds ago to today\'s date",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dylanbathurst/howlong.git"
+    "url": "https://github.com/dylanbathurst/howlong"
   },
   "main": "lib/howlong",
   "engines": {
-    "node": "~v0.4.13-pre"
+    "node": ">=v0.6.3"
   },
   "dependencies": {},
   "devDependencies": {}
