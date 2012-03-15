@@ -1,2 +1,2 @@
-Timeago module for NodeJS
-=========================
+How Long Ago module for NodeJS
+==============================

@@ -1,7 +1,16 @@
 {
-	"name": "timeago",
-	"description": "Simple module to compare milliseconds ago to today\'s date",
-	"version": "0.0.1",
-	"homepage": "http://github.com/dylanbathurst/timeago",
-	"author": "Dylan Bathurst <dylan@rumgr.com>"
+  "author": "Dylan Bathurst <dylanbathurst@gmail.com> (http://www.dylanbathurst.com)",
+  "name": "howlong",
+  "description": "Simple module to compare milliseconds ago to today\\'s date",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dylanbathurst/howlong.git"
+  },
+  "main": "lib/howlong",
+  "engines": {
+    "node": "~v0.4.13-pre"
+  },
+  "dependencies": {},
+  "devDependencies": {}
 }
