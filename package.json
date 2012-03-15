@@ -2,7 +2,7 @@
   "author": "Dylan Bathurst <dylanbathurst@gmail.com> (http://www.dylanbathurst.com)",
   "name": "howlong",
   "description": "Simple module to compare milliseconds ago to today\'s date",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/dylanbathurst/howlong"
