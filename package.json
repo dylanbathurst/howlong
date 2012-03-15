@@ -1,0 +1,7 @@
+{
+	"name": "timeago",
+	"description": "Simple module to compare milliseconds ago to today\'s date",
+	"version": "0.0.1",
+	"homepage": "http://github.com/dylanbathurst/timeago",
+	"author": "Dylan Bathurst <dylan@rumgr.com>"
+}
